@@ -11,13 +11,13 @@ import java.time.format.DateTimeFormatter;
 public class DatabaseLogger {
 
     // URL de la base de données
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/projet_gei_072";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/projet_gei_011";
 
     // Nom d'utilisateur de la base
-    private static final String DB_USER = "projet_gei_072";
+    private static final String DB_USER = "projet_gei_011";
 
     // Mot de passe de la base
-    private static final String DB_PASSWORD = "eiKie7Ah";
+    private static final String DB_PASSWORD = "Soo2aang";
 
     /**
      * Méthode pour enregistrer un événement dans la table `events`.
